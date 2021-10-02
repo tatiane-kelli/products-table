@@ -1,0 +1,25 @@
+*{
+  text-align: center;
+  background-color: #A9BCD0;
+  font-family: 400 'Roboto', sans-serif
+}
+
+.App > .content > h1{
+  color: #1B1B1E;
+  font: 60px 400 'Roboto', sans-serif;
+}
+
+.content > table {
+  background-color: #373F51;
+  opacity: 0.8;
+  border-radius: 26px;
+  position: absolute;
+  padding: 30px 25px 30px 25px;
+  color: #1B1B1E;
+  border: none;
+
+  justify-content: center;
+  align-items: center;
+}
+
+
